@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shmibio</string>
+
+    <string-array name="profilOptionen">
+        <item> Blackbunnyman</item>
+        <item>Einstellungen</item>
+        <item>Gelikte Sachen</item>
+        <item>Justus ist cool</item>
+    </string-array>
+
+
+</resources>
